@@ -1,6 +1,24 @@
 <?xml version="1.0"?>
 <RCC>
     <qresource prefix="/">
+<<<<<<< HEAD
+        <file alias="main.qml">main.qml</file>
+        <file alias="Addproxy.qml">Addproxy.qml</file>
+        <file alias="BatAddproxy.qml">BatAddproxy.qml</file>
+        <file alias="calendar.qml">calendar.qml</file>
+        <file alias="Editproxy.qml">Editproxy.qml</file>
+        <file alias="FlowContentPane.qml">FlowContentPane.qml</file>
+        <file alias="Modifyallowproxy.qml">Modifyallowproxy.qml</file>
+        <file alias="Modifycanassigned.qml">Modifycanassigned.qml</file>
+        <file alias="Modifycomment.qml">Modifycomment.qml</file>
+        <file alias="Modifydeadline.qml">Modifydeadline.qml</file>
+        <file alias="MsgDialog.qml">MsgDialog.qml</file>
+        <file alias="MyListView.qml">MyListView.qml</file>
+        <file alias="RegUser.qml">RegUser.qml</file>
+        <file alias="Selcomment.qml">Selcomment.qml</file>
+        <file alias="Seldeadline.qml">Seldeadline.qml</file>
+        <file alias="UserInfo.qml">UserInfo.qml</file>
+=======
         <file alias="main.qml">../newproxyinfo/main.qml</file>
         <file alias="Addproxy.qml">../newproxyinfo/Addproxy.qml</file>
         <file alias="BatAddproxy.qml">../newproxyinfo/BatAddproxy.qml</file>
@@ -23,5 +41,6 @@
         <file alias="common.js">../newproxyinfo/common.js</file>
         <file alias="AddProc.qml">../newproxyinfo/AddProc.qml</file>
         <file alias="proxystatus.qml">../newproxyinfo/proxystatus.qml</file>
+>>>>>>> 6635ec4 (first commit)
     </qresource>
 </RCC>

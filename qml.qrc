@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Addproxy.qml</file>
+        <file>BatAddproxy.qml</file>
+        <file>Editproxy.qml</file>
+        <file>FlowContentPane.qml</file>
+        <file>Modifyallowproxy.qml</file>
+        <file>Modifycanassigned.qml</file>
+        <file>Modifycomment.qml</file>
+        <file>Modifydeadline.qml</file>
+        <file>MsgDialog.qml</file>
+        <file>MyListView.qml</file>
+        <file>RegUser.qml</file>
+        <file>Selcomment.qml</file>
+        <file>Seldeadline.qml</file>
+        <file>UserInfo.qml</file>
+        <file>PageTimer.qml</file>
+        <file>script.mjs</file>
+        <file>function.qml</file>
+        <file>Editprocess.qml</file>
+        <file>common.js</file>
+        <file>AddProc.qml</file>
+        <file>proxystatus.qml</file>
+    </qresource>
+</RCC>
