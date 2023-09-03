@@ -1,0 +1,1 @@
+1|Ld9BoxHeadless.exe|4565c4322eb1fa80c0460cdbdaef848c|C:\Program Files\ldplayer9box\Ld9BoxHeadless.exe|0|1|false|||true|false|129

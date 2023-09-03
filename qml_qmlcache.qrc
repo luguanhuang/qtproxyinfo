@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../newproxyinfo/main.qml</file>
+        <file alias="Addproxy.qml">../newproxyinfo/Addproxy.qml</file>
+        <file alias="BatAddproxy.qml">../newproxyinfo/BatAddproxy.qml</file>
+        <file alias="Editproxy.qml">../newproxyinfo/Editproxy.qml</file>
+        <file alias="FlowContentPane.qml">../newproxyinfo/FlowContentPane.qml</file>
+        <file alias="Modifyallowproxy.qml">../newproxyinfo/Modifyallowproxy.qml</file>
+        <file alias="Modifycanassigned.qml">../newproxyinfo/Modifycanassigned.qml</file>
+        <file alias="Modifycomment.qml">../newproxyinfo/Modifycomment.qml</file>
+        <file alias="Modifydeadline.qml">../newproxyinfo/Modifydeadline.qml</file>
+        <file alias="MsgDialog.qml">../newproxyinfo/MsgDialog.qml</file>
+        <file alias="MyListView.qml">../newproxyinfo/MyListView.qml</file>
+        <file alias="RegUser.qml">../newproxyinfo/RegUser.qml</file>
+        <file alias="Selcomment.qml">../newproxyinfo/Selcomment.qml</file>
+        <file alias="Seldeadline.qml">../newproxyinfo/Seldeadline.qml</file>
+        <file alias="UserInfo.qml">../newproxyinfo/UserInfo.qml</file>
+        <file alias="PageTimer.qml">../newproxyinfo/PageTimer.qml</file>
+        <file alias="script.mjs">../newproxyinfo/script.mjs</file>
+        <file alias="function.qml">../newproxyinfo/function.qml</file>
+        <file alias="Editprocess.qml">../newproxyinfo/Editprocess.qml</file>
+        <file alias="common.js">../newproxyinfo/common.js</file>
+        <file alias="AddProc.qml">../newproxyinfo/AddProc.qml</file>
+        <file alias="proxystatus.qml">../newproxyinfo/proxystatus.qml</file>
+    </qresource>
+</RCC>
